@@ -6,9 +6,7 @@ an original experiment measuring whether SKCL's LLM-derived semantic prototypes 
 more robust to day/night domain shift than BCL's purely visual ones, using the
 Oxford RobotCar / ROAD dataset.
 
-> ⚠️ **This repository was reconstructed from Claude chat history, not copied from
-> the original working tree.** See [`NOTES.md`](NOTES.md) for exactly what's
-> verified-verbatim vs. reconstructed vs. missing entirely. Treat this as a strong
+> ⚠️ **This repository was reconstructed hence treat this as a strong
 > starting point to diff against your real cluster copy (`~/skcl-project` on
 > TinyGPU), not as a guaranteed-correct drop-in replacement.
 
